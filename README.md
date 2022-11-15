@@ -1,2 +1,3 @@
 # Ponos
-Ily
+# ily
+print('Nursultan', end='')
